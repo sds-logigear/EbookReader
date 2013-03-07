@@ -3,8 +3,7 @@
  */
 package org.androiddaisyreader.controller;
 
-import java.util.logging.Logger;
-
+import java.util.logging.*;
 import org.androiddaisyreader.AudioPlayer;
 import org.androiddaisyreader.player.SegmentTimeInfo;
 import org.androiddaisyreader.model.Audio;
